@@ -1,4 +1,0 @@
-name: RiftLegacy
-version: '1.0-SNAPSHOT'
-main: def.cocotronium.riftLegacy.RiftLegacy
-api-version: '1.21'
